@@ -1,0 +1,32 @@
+{
+  "name": "finite-state-machine",
+  "version": "1.0.0",
+  "description": "A Node project to handle Finite State Machines in a Node/TypeScript environment.",
+  "keywords": [
+    "node",
+    "fsm",
+    "npm",
+    "pakage"
+  ],
+  "homepage": "https://github.com/IvoDS/node-finite-state-machine#readme",
+  "bugs": {
+    "url": "https://github.com/IvoDS/node-finite-state-machine/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvoDS/node-finite-state-machine.git"
+  },
+  "license": "ISC",
+  "author": "Ivan De Stefani",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "types": "dist/indwìex.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  }
+}
